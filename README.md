@@ -18,6 +18,9 @@ Perfection is my direction (c) Sum 41
     * conda activate 100
     * conda deactivate
     * установил зависимости по рекомендациям Боба
+- оформление README:
+    - https://help.github.com/articles/basic-writing-and-formatting-syntax/
+    - http://webdesign.ru.net/article/pravila-oformleniya-fayla-readmemd-na-github.html
 
 - в каждой Original папке создается своя папка дня
 
