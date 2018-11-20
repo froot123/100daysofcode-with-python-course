@@ -24,13 +24,15 @@ Perfection is my direction (c) Sum 41
 
 - в каждой Original папке создается своя папка дня
 - bite7 done
-- добавил ssh ключ, добавил set-url для доступа по ssh 
+- добавил ssh ключ, добавил set-url для доступа по ssh
+
 
 ## Day002: 2018-11-21
 
 * ~~<https://codechalleng.es/bites/promo/datetimes>~~
 * <https://codechalleng.es/bites/promo/datetimes_starter>
 * <https://codechalleng.es/bites/promo/more-datetimes>
+
 
 ## Day003: 2018-11-22
 
