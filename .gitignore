@@ -111,3 +111,6 @@ rock_paper_scissors.sqlite
 
 # TexturePacker
 *.tps
+
+#code
+.vscode
