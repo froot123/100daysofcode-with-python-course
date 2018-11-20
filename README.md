@@ -23,10 +23,11 @@ Perfection is my direction (c) Sum 41
     - http://webdesign.ru.net/article/pravila-oformleniya-fayla-readmemd-na-github.html
 
 - в каждой Original папке создается своя папка дня
+- bite7 done
 
 ## Day002: 2018-11-21
 
-* <https://codechalleng.es/bites/promo/datetimes>
+* ~~<https://codechalleng.es/bites/promo/datetimes>~~
 * <https://codechalleng.es/bites/promo/datetimes_starter>
 * <https://codechalleng.es/bites/promo/more-datetimes>
 
