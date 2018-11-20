@@ -24,7 +24,7 @@ Perfection is my direction (c) Sum 41
 
 - в каждой Original папке создается своя папка дня
 - bite7 done
-- добавил ssh ключ 
+- добавил ssh ключ, добавил set-url для доступа по ssh 
 
 ## Day002: 2018-11-21
 
